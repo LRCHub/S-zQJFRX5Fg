@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "BABY BABY",
+  "base_artist": "銀杏BOYZ",
+  "createdAt": "2025-12-14T03:35:04.684874Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baby, Baby (I Know You're a Lady)",
+      "artist": "David Houston",
+      "has_synced": false,
+      "path": "select/01_Baby,_Baby_(I_Know_You're_a_Lady)_David_Houston.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Baby Baby",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_Baby_Baby_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baby Baby Please (Just a Little More Head)",
+      "artist": "The 2 Live Crew",
+      "has_synced": false,
+      "path": "select/03_Baby_Baby_Please_(Just_a_Little_More_Head)_The_2_Live_Crew.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baby Baby Please Just A Lil' More Head",
+      "artist": "The 2 Live Crew",
+      "has_synced": false,
+      "path": "select/04_Baby_Baby_Please_Just_A_Lil'_More_Head_The_2_Live_Crew.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ooh Baby Baby",
+      "artist": "Zapp",
+      "has_synced": true,
+      "path": "select/05_Ooh_Baby_Baby_Zapp.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby Baby",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/06_Baby_Baby_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby Baby",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/07_Baby_Baby_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baby, Baby",
+      "artist": "Amy Grant",
+      "has_synced": true,
+      "path": "select/08_Baby,_Baby_Amy_Grant.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Medley: I'm So Proud / Ooh Baby Baby / La la Means I Love You / Cool Jerk",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/09_Medley__I'm_So_Proud___Ooh_Baby_Baby___La_la_Means_I_Love_You___Cool_Jerk_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby Baby",
+      "artist": "Eighth Wonder",
+      "has_synced": false,
+      "path": "select/10_Baby_Baby_Eighth_Wonder.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baby Baby - Dance Mix",
+      "artist": "Eighth Wonder",
+      "has_synced": false,
+      "path": "select/11_Baby_Baby_-_Dance_Mix_Eighth_Wonder.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "(Baby, Baby) Can I Invade Your Country",
+      "artist": "Sparks",
+      "has_synced": true,
+      "path": "select/12_(Baby,_Baby)_Can_I_Invade_Your_Country_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(Baby,Baby) Can I Invade Your Country",
+      "artist": "Sparks",
+      "has_synced": true,
+      "path": "select/13_(Baby,Baby)_Can_I_Invade_Your_Country_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baby, Baby, Baby, Baby, Baby...",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/14_Baby,_Baby,_Baby,_Baby,_Baby..._R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Baby Baby Baby",
+      "artist": "Alexia",
+      "has_synced": true,
+      "path": "select/15_Baby_Baby_Baby_Alexia.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Baby-Baby-Baby",
+      "artist": "TLC",
+      "has_synced": true,
+      "path": "select/16_Baby-Baby-Baby_TLC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BABY BABY",
+      "artist": "銀杏BOYZ",
+      "has_synced": false,
+      "path": "select/pl_01_BABY_BABY_銀杏BOYZ.txt"
+    }
+  ]
+}
